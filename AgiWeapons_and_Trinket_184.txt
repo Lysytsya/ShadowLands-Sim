@@ -46,7 +46,7 @@
 #main_hand=dominas_oozing_shiv,id=178928,bonus_id=7187/4786/1498
 #
 #
-## agi 1h glaive
+### agi 1h glaive
 #
 #main_hand=hungering_devourers_twinblade,id=178854
 #
