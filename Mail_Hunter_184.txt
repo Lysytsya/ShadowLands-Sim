@@ -1,0 +1,94 @@
+### Gear from Bags
+#
+### rings
+#
+#finger1=stitchfleshs_misplaced_signet,id=178736,bonus_id=7187/4786/1498
+#finger1=ritual_commanders_ring,id=178781,bonus_id=7187/4786/1498
+#finger1=arachnid_cipher_ring,id=178933,bonus_id=7187/4786/1498
+#finger1=signet_of_the_false_accuser,id=178824,bonus_id=7187/4786/1498
+#finger1=ritual_bone_band,id=178870,bonus_id=7187/4786/1498
+#finger1=bloodoath_signet,id=178871,bonus_id=7187/4786/1498
+#finger1=ring_of_perpetual_conflict,id=178872,bonus_id=7187/4786/1498
+#finger1=entwined_gorger_tendril,id=178848,bonus_id=7187/4786/1498
+#finger1=death_gods_signet,id=179355,bonus_id=7187/4786/1498
+#finger1=fleshfused_circle,id=178869,bonus_id=7187/4786/1498
+#
+#
+### back
+#
+#back=blighted_margraves_cloak,id=178755,bonus_id=7187/4786/1498
+#back=drape_of_twisted_loyalties,id=180123,bonus_id=7187/4786/1498
+#back=dealer_xyexas_cape,id=179349,bonus_id=7187/4786/1498
+#back=cloak_of_enveloping_manifestations,id=178851,bonus_id=7187/4786/1498
+#
+#
+### neck
+#
+#neck=trailspinner_pendant,id=178707,bonus_id=7187/4786/1498
+#neck=azure_venom_choker,id=180115,bonus_id=7187/4786/1498
+#neck=sin_stained_pendant,id=178827,bonus_id=7187/4786/1498
+#
+### agi trinket
+#
+#trinket1=mistcaller_ocarina,id=178715,bonus_id=7187/4786/1498
+#trinket1=bottled_flayedwing_toxin,id=178742,bonus_id=7187/4786/1498
+#trinket1=phial_of_putrefaction,id=178771,bonus_id=7187/4786/1498
+#trinket1=inscrutable_quantum_device,id=179350,bonus_id=7187/4786/1498
+#trinket1=decanter_of_anima_charged_winds,id=178861,bonus_id=7187/4786/1498
+#trinket1=grim_codex,id=178811,bonus_id=7187/4786/1498
+#trinket1=shadowgrasp_totem,id=179356,bonus_id=7187/4786/1498
+#trinket1=overcharged_anima_battery,id=180116,bonus_id=7187/4786/1498
+#trinket1=darkmoon_deck__voracity,id=173087
+#
+### agi 2h
+#
+#main_hand=xavs_pike_of_authority,id=178865,bonus_id=7187/4786/1498
+#main_hand=halberd_of_the_aranakk,id=178929,bonus_id=7187/4786/1498
+#main_hand=collectors_pulse_staff,id=179347,bonus_id=7187/4786/1498
+#main_hand=quarterstaff_of_discordant_ethic,id=180097,bonus_id=7187/4786/1498
+#main_hand=devoss_cacophonous_poleaxe,id=180096,bonus_id=7187/4786/1498
+#
+### ranged 
+#
+#main_hand=xy_cartel_crossbow,id=179348,bonus_id=7187/4786/1498
+#main_hand=blight_belcher,id=178735,bonus_id=7187/4786/1498
+#main_hand=the_philosopher,id=180112,bonus_id=7187/4786/1498
+#
+#
+### mail items
+#
+#head=soulthorn_visage,id=178692,bonus_id=7187/4786/1498
+#head=rattling_deadeye_hood,id=178738,bonus_id=7187/4786/1498
+#head=amphitheater_stalkers_hood,id=178799,bonus_id=7187/4786/1498
+#head=crown_of_autumnal_flora,id=182305,bonus_id=7187/4786/1655
+#head=nathrian_usurpers_mask,id=178816,bonus_id=7187/4786/1498
+#shoulder=wintersnap_shoulderguards,id=178695,bonus_id=7187/4786/1498
+#shoulder=mantle_of_ephemeral_visages,id=178821,bonus_id=7187/4786/1498
+#shoulder=blightbone_spaulders,id=178733,bonus_id=7187/4786/1498
+#shoulder=plagueborne_shoulderguards,id=178764,bonus_id=7187/4786/1498
+#chest=triumphant_combatants_chainmail,id=178794,bonus_id=7187/4786/1498
+#chest=soaring_decimators_hauberk,id=178815,bonus_id=7187/4786/1498
+#chest=harness_of_twisted_whims,id=179353,bonus_id=7187/4786/1498
+#chest=forsworn_stalkers_hauberk,id=180100,bonus_id=7187/4786/1498
+#wrists=hiveswarm_bracers,id=178703,bonus_id=7187/4786/1498
+#wrists=tortured_assistants_bindings,id=178767,bonus_id=7187/4786/1498
+#wrists=fallen_paragons_armguards,id=180114,bonus_id=7187/4786/1498
+#wrists=shackles_of_alluring_vitality,id=178846,bonus_id=7187/4786/1498
+#hands=grips_of_overwhelming_beatings,id=178798,bonus_id=7187/4786/1498
+#hands=iron_spiked_handgrips,id=178841,bonus_id=7187/4786/1498
+#hands=hakkari_revenants_grips,id=179325,bonus_id=7187/4786/1498
+#hands=absonant_constructs_handguards,id=180105,bonus_id=7187/4786/1498
+#waist=clasp_of_waning_shadow,id=178700,bonus_id=7187/4786/1498
+#waist=executors_prideful_girdle,id=178843,bonus_id=7187/4786/1498
+#waist=belt_of_wretched_manipulations,id=178932,bonus_id=7187/4786/1498
+#waist=dark_praetorians_clasp,id=180110,bonus_id=7187/4786/1498
+#legs=blightborne_chain_legguards,id=178762,bonus_id=7187/4786/1498
+#legs=lichbone_legguards,id=178778,bonus_id=7187/4786/1498
+#legs=wind_dancers_legguards,id=178839,bonus_id=7187/4786/1498
+#feet=striders_of_restless_malice,id=178745,bonus_id=7187/4786/1498
+#legs=techno_coil_legguards,id=179337,bonus_id=7187/4786/1498
+#feet=boots_of_shuddering_matter,id=178796,bonus_id=7187/4786/1498
+#feet=shardskin_sabatons,id=178830,bonus_id=7187/4786/1498
+#feet=spatial_rift_striders,id=179345,bonus_id=7187/4786/1498
+
+
