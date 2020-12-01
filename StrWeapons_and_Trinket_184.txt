@@ -1,0 +1,45 @@
+### str trinkets
+#
+#trinket1=spare_meat_hook,id=178751,bonus_id=7187/4786/1498
+#trinket1=phial_of_putrefaction,id=178771,bonus_id=7187/4786/1498
+#trinket1=viscera_of_coalesced_hatred,id=178808,bonus_id=7187/4786/1498
+#trinket1=overwhelming_power_crystal,id=179342,bonus_id=7187/4786/1498
+#trinket1=decanter_of_anima_charged_winds,id=178861,bonus_id=7187/4786/1498
+#trinket1=grim_codex,id=178811,bonus_id=7187/4786/1498
+#trinket1=inscrutable_quantum_device,id=179350,bonus_id=7187/4786/1498
+#trinket1=anima_field_emitter,id=180118,bonus_id=7187/4786/1498
+#trinket1=darkmoon_deck__voracity,id=173087
+#
+### str 2h 
+#
+#main_hand=drustlords_greataxe,id=178713,bonus_id=7187/4786/1498
+#main_hand=rimebinders_runeblade,id=178780,bonus_id=7187/4786/1498
+#main_hand=dessias_decimating_decapitator,id=178866,bonus_id=7187/4786/1498
+#main_hand=zinkhas__blade_of_the_fallen_god,id=179330,bonus_id=7187/4786/1498
+#
+### str  1h
+#
+#main_hand=supercollider,id=179340,bonus_id=7187/4786/1498
+#main_hand=gorestained_cleaver,id=178863,bonus_id=7187/4786/1498
+#main_hand=sinsmasher,id=178855,bonus_id=7187/4786/1498
+#main_hand=axe_of_the_deadgrove,id=178711,bonus_id=7187/4786/1498
+#main_hand=engorged_worm_smasher,id=178730,bonus_id=7187/4786/1498
+#main_hand=sophisticated_bonecracker,id=178752,bonus_id=7187/4786/1498
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
