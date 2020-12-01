@@ -50,9 +50,14 @@
 #
 #main_hand=hungering_devourers_twinblade,id=178854
 #
-
-
-
+#
+#
+### ranged 
+#
+#main_hand=xy_cartel_crossbow,id=179348,bonus_id=7187/4786/1498
+#main_hand=blight_belcher,id=178735,bonus_id=7187/4786/1498
+#main_hand=the_philosopher,id=180112,bonus_id=7187/4786/1498
+#
 
 
 
