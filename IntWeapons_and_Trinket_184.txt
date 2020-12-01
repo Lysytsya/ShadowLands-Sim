@@ -20,6 +20,13 @@
 #off_hand=deathwalkers_promise,id=178868,bonus_id=7187/4786/1498
 #
 #
+### int shield
+#
+#off_hand=acidslough_bulwark,id=178712,bonus_id=7187/4786/1498
+#off_hand=encrusted_canopic_lid,id=178750,bonus_id=7187/4786/1498
+#off_hand=barricade_of_the_endless_empire,id=178867,bonus_id=7187/4786/1498
+#
+#
 ### int sword
 #
 #main_hand=amarths_spellblade,id=178737,bonus_id=7187/4786/1498
