@@ -78,4 +78,3 @@
 #
 #main_hand=surgical_pustule_extractor,id=178753,bonus_id=7187/4786/1498
 #main_hand=fleshcrafters_knife,id=178789,bonus_id=7187/4786/1498
-#
