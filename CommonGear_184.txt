@@ -1,0 +1,30 @@
+### Gear from Bags
+#
+### rings
+#
+#finger1=stitchfleshs_misplaced_signet,id=178736,bonus_id=7187/4786/1498
+#finger1=ritual_commanders_ring,id=178781,bonus_id=7187/4786/1498
+#finger1=arachnid_cipher_ring,id=178933,bonus_id=7187/4786/1498
+#finger1=signet_of_the_false_accuser,id=178824,bonus_id=7187/4786/1498
+#finger1=ritual_bone_band,id=178870,bonus_id=7187/4786/1498
+#finger1=bloodoath_signet,id=178871,bonus_id=7187/4786/1498
+#finger1=ring_of_perpetual_conflict,id=178872,bonus_id=7187/4786/1498
+#finger1=entwined_gorger_tendril,id=178848,bonus_id=7187/4786/1498
+#finger1=death_gods_signet,id=179355,bonus_id=7187/4786/1498
+#finger1=fleshfused_circle,id=178869,bonus_id=7187/4786/1498
+#
+#
+### back
+#
+#back=blighted_margraves_cloak,id=178755,bonus_id=7187/4786/1498
+#back=drape_of_twisted_loyalties,id=180123,bonus_id=7187/4786/1498
+#back=dealer_xyexas_cape,id=179349,bonus_id=7187/4786/1498
+#back=cloak_of_enveloping_manifestations,id=178851,bonus_id=7187/4786/1498
+#
+#
+### neck
+#
+#neck=trailspinner_pendant,id=178707,bonus_id=7187/4786/1498
+#neck=azure_venom_choker,id=180115,bonus_id=7187/4786/1498
+#neck=sin_stained_pendant,id=178827,bonus_id=7187/4786/1498
+#
