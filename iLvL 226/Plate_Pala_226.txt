@@ -1,0 +1,85 @@
+### Gear from Bags
+#
+### rings
+#
+#finger1=stitchfleshs_misplaced_signet,id=178736,bonus_id=3535/4786/1540
+#finger1=ritual_commanders_ring,id=178781,bonus_id=3535/4786/1540
+#finger1=arachnid_cipher_ring,id=178933,bonus_id=3535/4786/1540
+#finger1=signet_of_the_false_accuser,id=178824,bonus_id=3535/4786/1540
+#finger1=ritual_bone_band,id=178870,bonus_id=3535/4786/1540
+#finger1=bloodoath_signet,id=178871,bonus_id=3535/4786/1540
+#finger1=ring_of_perpetual_conflict,id=178872,bonus_id=3535/4786/1540
+#finger1=entwined_gorger_tendril,id=178848,bonus_id=3535/4786/1540
+#finger1=death_gods_signet,id=179355,bonus_id=3535/4786/1540
+#finger1=fleshfused_circle,id=178869,bonus_id=3535/4786/1540
+#
+#
+### back
+#
+#back=blighted_margraves_cloak,id=178755,bonus_id=3535/4786/1540
+#back=drape_of_twisted_loyalties,id=180123,bonus_id=3535/4786/1540
+#back=dealer_xyexas_cape,id=179349,bonus_id=3535/4786/1540
+#back=cloak_of_enveloping_manifestations,id=178851,bonus_id=3535/4786/1540
+#
+#
+### neck
+#
+#neck=trailspinner_pendant,id=178707,bonus_id=3535/4786/1540
+#neck=azure_venom_choker,id=180115,bonus_id=3535/4786/1540
+#neck=sin_stained_pendant,id=178827,bonus_id=3535/4786/1540
+#
+### str trinkets
+#
+#trinket1=spare_meat_hook,id=178751,bonus_id=3535/4786/1540
+#trinket1=phial_of_putrefaction,id=178771,bonus_id=3535/4786/1540
+#trinket1=viscera_of_coalesced_hatred,id=178808,bonus_id=3535/4786/1540
+#trinket1=overwhelming_power_crystal,id=179342,bonus_id=3535/4786/1540
+#trinket1=decanter_of_anima_charged_winds,id=178861,bonus_id=3535/4786/1540
+#trinket1=grim_codex,id=178811,bonus_id=3535/4786/1540
+#trinket1=inscrutable_quantum_device,id=179350,bonus_id=3535/4786/1540
+#trinket1=anima_field_emitter,id=180118,bonus_id=3535/4786/1540
+#trinket1=darkmoon_deck__voracity,id=173087
+#
+### str 2h 
+#
+#main_hand=drustlords_greataxe,id=178713,bonus_id=3535/4786/1540
+#main_hand=rimebinders_runeblade,id=178780,bonus_id=3535/4786/1540
+#main_hand=dessias_decimating_decapitator,id=178866,bonus_id=3535/4786/1540
+#main_hand=zinkhas__blade_of_the_fallen_god,id=179330,bonus_id=3535/4786/1540
+#
+#
+### plate items
+#
+#head=wrathbark_greathelm,id=178694,bonus_id=3535/4786/1540
+#head=plague_handlers_greathelm,id=178773,bonus_id=3535/4786/1540
+#head=darkfrost_helmet,id=178777,bonus_id=3535/4786/1540
+#head=crown_of_autumnal_flora,id=182305,bonus_id=7187/4786/1655
+#head=wing_commanders_helmet,id=178812,bonus_id=3535/4786/1540
+#shoulder=pranksters_pauldrons,id=178697,bonus_id=3535/4786/1540
+#shoulder=vile_butchers_pauldrons,id=178749,bonus_id=3535/4786/1540
+#shoulder=unyielding_combatants_pauldrons,id=178802,bonus_id=3535/4786/1540
+#shoulder=pauldrons_of_unleashed_pride,id=178820,bonus_id=3535/4786/1540
+#chest=abdominal_securing_chestguard,id=178793,bonus_id=3535/4786/1540
+#chest=breastplate_of_otherworldly_influence,id=178814,bonus_id=3535/4786/1540
+#chest=breastplate_of_fatal_contrivances,id=179346,bonus_id=3535/4786/1540
+#chest=breastplate_of_brutal_dissonance,id=180099,bonus_id=3535/4786/1540
+#wrists=pit_fighters_wristguards,id=178807,bonus_id=3535/4786/1540
+#wrists=vambraces_of_the_depraved_warden,id=178845,bonus_id=3535/4786/1540
+#wrists=reality_shatter_vambraces,id=179354,bonus_id=3535/4786/1540
+#wrists=thunderous_echo_vambraces,id=180113,bonus_id=3535/4786/1540
+#hands=fogweaver_gauntlets,id=178706,bonus_id=3535/4786/1540
+#hands=fleshfused_crushers,id=178775,bonus_id=3535/4786/1540
+#hands=guilewind_stone_talons,id=178840,bonus_id=3535/4786/1540
+#hands=distorted_constructs_gauntlets,id=180104,bonus_id=3535/4786/1540
+#waist=fused_bone_greatbelt,id=178734,bonus_id=3535/4786/1540
+#waist=waistguard_of_expurged_anguish,id=178842,bonus_id=3535/4786/1540
+#waist=scarred_bloodbound_girdle,id=178931,bonus_id=3535/4786/1540
+#waist=girdle_of_the_soulflayer,id=179326,bonus_id=3535/4786/1540
+#legs=gormshell_greaves,id=178701,bonus_id=3535/4786/1540
+#legs=legplates_of_unholy_frenzy,id=178739,bonus_id=3535/4786/1540
+#legs=galvanized_oxxein_legguards,id=178800,bonus_id=3535/4786/1540
+#legs=halkiass_towering_pillars,id=178818,bonus_id=3535/4786/1540
+#feet=muckwallow_stompers,id=178774,bonus_id=3535/4786/1540
+#feet=sabatons_of_the_rushing_juggernaut,id=178836,bonus_id=3535/4786/1540
+#feet=dynamo_doomstompers,id=179338,bonus_id=3535/4786/1540
+#feet=warboots_of_ruthless_conviction,id=180101,bonus_id=3535/4786/1540
