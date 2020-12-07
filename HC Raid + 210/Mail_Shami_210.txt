@@ -1,0 +1,196 @@
+### Gear from Bags
+#
+### rings
+#
+#finger1=stitchfleshs_misplaced_signet,id=178736,bonus_id=3536/4786/1524
+#finger1=ritual_commanders_ring,id=178781,bonus_id=3536/4786/1524
+#finger1=arachnid_cipher_ring,id=178933,bonus_id=3536/4786/1524
+#finger1=signet_of_the_false_accuser,id=178824,bonus_id=3536/4786/1524
+#finger1=ritual_bone_band,id=178870,bonus_id=3536/4786/1524
+#finger1=bloodoath_signet,id=178871,bonus_id=3536/4786/1524
+#finger1=ring_of_perpetual_conflict,id=178872,bonus_id=3536/4786/1524
+#finger1=entwined_gorger_tendril,id=178848,bonus_id=3536/4786/1524
+#finger1=death_gods_signet,id=179355,bonus_id=3536/4786/1524
+#finger1=fleshfused_circle,id=178869,bonus_id=3536/4786/1524
+#
+#
+### back
+#
+#back=blighted_margraves_cloak,id=178755,bonus_id=3536/4786/1524
+#back=drape_of_twisted_loyalties,id=180123,bonus_id=3536/4786/1524
+#back=dealer_xyexas_cape,id=179349,bonus_id=3536/4786/1524
+#back=cloak_of_enveloping_manifestations,id=178851,bonus_id=3536/4786/1524
+#
+#
+### neck
+#
+#neck=trailspinner_pendant,id=178707,bonus_id=3536/4786/1524
+#neck=azure_venom_choker,id=180115,bonus_id=3536/4786/1524
+#neck=sin_stained_pendant,id=178827,bonus_id=3536/4786/1524
+#
+### agi trinket
+#
+#trinket1=mistcaller_ocarina,id=178715,bonus_id=3536/4786/1524
+#trinket1=bottled_flayedwing_toxin,id=178742,bonus_id=3536/4786/1524
+#trinket1=phial_of_putrefaction,id=178771,bonus_id=3536/4786/1524
+#trinket1=inscrutable_quantum_device,id=179350,bonus_id=3536/4786/1524
+#trinket1=decanter_of_anima_charged_winds,id=178861,bonus_id=3536/4786/1524
+#trinket1=grim_codex,id=178811,bonus_id=3536/4786/1524
+#trinket1=shadowgrasp_totem,id=179356,bonus_id=3536/4786/1524
+#trinket1=overcharged_anima_battery,id=180116,bonus_id=3536/4786/1524
+#trinket1=darkmoon_deck__voracity,id=173087
+#
+### agi 1h mace
+#
+#main_hand=stoneguardians_morningstar,id=178834,bonus_id=3536/4786/1524
+#main_hand=gorebound_predators_gavel,id=178864,bonus_id=3536/4786/1524
+#
+#
+### agi 1h axe
+#
+#main_hand=stone_generals_edge,id=178857,bonus_id=3536/4786/1524
+#main_hand=penitent_edge,id=180095,bonus_id=3536/4786/1524
+#
+### int trinket
+#
+#trinket1=unbound_changeling,id=178708,bonus_id=3536/4786/1524
+#trinket1=infinitely_divisible_ooze,id=178769,bonus_id=3536/4786/1524
+#trinket1=satchel_of_misbegotten_minions,id=178772,bonus_id=3536/4786/1524
+#trinket1=overflowing_anima_cage,id=178849,bonus_id=3536/4786/1524
+#trinket1=sunblood_amethyst,id=178826,bonus_id=3536/4786/1524
+#trinket1=soulletting_ruby,id=178809,bonus_id=3536/4786/1524
+#trinket1=inscrutable_quantum_device,id=179350,bonus_id=3536/4786/1524
+#trinket1=empyreal_ordnance,id=180117,bonus_id=3536/4786/1524
+#trinket1=darkmoon_deck__putrescence,id=173069
+#
+### int staff and offhand
+#
+#main_hand=nathrian_ferula,id=178829,bonus_id=3536/4786/1524
+#main_hand=lakalis_spire_of_knowledge,id=178714,bonus_id=3536/4786/1524
+#main_hand=whizblast_walking_stick,id=179339,bonus_id=3536/4786/1524
+### int shield
+#
+#off_hand=acidslough_bulwark,id=178712,bonus_id=3536/4786/1524
+#off_hand=encrusted_canopic_lid,id=178750,bonus_id=3536/4786/1524
+#off_hand=barricade_of_the_endless_empire,id=178867,bonus_id=3536/4786/1524
+#
+### int dagger
+#
+#main_hand=surgical_pustule_extractor,id=178753,bonus_id=3536/4786/1524
+#main_hand=fleshcrafters_knife,id=178789,bonus_id=3536/4786/1524
+#
+#
+### int mace 
+#
+#main_hand=scithewood_scepter,id=178709,bonus_id=3536/4786/1524
+#
+#
+### mail items
+#
+#head=soulthorn_visage,id=178692,bonus_id=3536/4786/1524
+#head=rattling_deadeye_hood,id=178738,bonus_id=3536/4786/1524
+#head=amphitheater_stalkers_hood,id=178799,bonus_id=3536/4786/1524
+#head=crown_of_autumnal_flora,id=182305,bonus_id=7187/4786/1655
+#head=nathrian_usurpers_mask,id=178816,bonus_id=3536/4786/1524
+#shoulder=wintersnap_shoulderguards,id=178695,bonus_id=3536/4786/1524
+#shoulder=mantle_of_ephemeral_visages,id=178821,bonus_id=3536/4786/1524
+#shoulder=blightbone_spaulders,id=178733,bonus_id=3536/4786/1524
+#shoulder=plagueborne_shoulderguards,id=178764,bonus_id=3536/4786/1524
+#chest=triumphant_combatants_chainmail,id=178794,bonus_id=3536/4786/1524
+#chest=soaring_decimators_hauberk,id=178815,bonus_id=3536/4786/1524
+#chest=harness_of_twisted_whims,id=179353,bonus_id=3536/4786/1524
+#chest=forsworn_stalkers_hauberk,id=180100,bonus_id=3536/4786/1524
+#wrists=hiveswarm_bracers,id=178703,bonus_id=3536/4786/1524
+#wrists=tortured_assistants_bindings,id=178767,bonus_id=3536/4786/1524
+#wrists=fallen_paragons_armguards,id=180114,bonus_id=3536/4786/1524
+#wrists=shackles_of_alluring_vitality,id=178846,bonus_id=3536/4786/1524
+#hands=grips_of_overwhelming_beatings,id=178798,bonus_id=3536/4786/1524
+#hands=iron_spiked_handgrips,id=178841,bonus_id=3536/4786/1524
+#hands=hakkari_revenants_grips,id=179325,bonus_id=3536/4786/1524
+#hands=absonant_constructs_handguards,id=180105,bonus_id=3536/4786/1524
+#waist=clasp_of_waning_shadow,id=178700,bonus_id=3536/4786/1524
+#waist=executors_prideful_girdle,id=178843,bonus_id=3536/4786/1524
+#waist=belt_of_wretched_manipulations,id=178932,bonus_id=3536/4786/1524
+#waist=dark_praetorians_clasp,id=180110,bonus_id=3536/4786/1524
+#legs=blightborne_chain_legguards,id=178762,bonus_id=3536/4786/1524
+#legs=lichbone_legguards,id=178778,bonus_id=3536/4786/1524
+#legs=wind_dancers_legguards,id=178839,bonus_id=3536/4786/1524
+#feet=striders_of_restless_malice,id=178745,bonus_id=3536/4786/1524
+#legs=techno_coil_legguards,id=179337,bonus_id=3536/4786/1524
+#feet=boots_of_shuddering_matter,id=178796,bonus_id=3536/4786/1524
+#feet=shardskin_sabatons,id=178830,bonus_id=3536/4786/1524
+#feet=spatial_rift_striders,id=179345,bonus_id=3536/4786/1524
+#
+### common items 
+#
+#back=mantle_of_manifest_sins,id=183033,bonus_id=4799/4786/1485
+#back=cowled_batwing_cloak,id=183034,bonus_id=4799/4786/1485
+#back=crest_of_the_legionnaire_general,id=183032,bonus_id=4799/4786/1485
+#neck=nobles_birthstone_pendant,id=183039,bonus_id=4799/4786/1485
+#neck=charm_of_eternal_winter,id=183040,bonus_id=4799/4786/1485
+#finger1=ritualists_treasured_ring,id=183037,bonus_id=4799/4786/1485
+#finger1=hyperlight_band,id=183038,bonus_id=4799/4786/1485
+#finger1=most_regal_signet_of_sire_denathrius,id=183036,bonus_id=4799/4786/1485
+#
+### int trinket
+#
+#trinket1=soul_igniter,id=184019,bonus_id=4799/4786/1485
+#trinket1=glyph_of_assimilation,id=184021,bonus_id=4799/4786/1485
+#trinket1=macabre_sheet_music,id=184024,bonus_id=4799/4786/1485
+#trinket1=dreadfire_vessel,id=184030,bonus_id=4799/4786/1485
+#trinket1=cabalists_hymnal,id=184028,bonus_id=4799/4786/1485
+#
+### int Mace 1h
+#
+#main_hand=mace_of_enveloping_sins,id=182417,bonus_id=4799/4786/1511
+#main_hand=sinstealers_sentencing_gavel,id=182391,bonus_id=4799/4786/1511
+#main_hand=mace_of_enveloping_sins,id=182417,bonus_id=4799/4786/1518
+#main_hand=sinstealers_sentencing_gavel,id=182391,bonus_id=4799/4786/1518
+#
+#
+### int offhand shield
+#
+#off_hand=builwark_of_the_stone_legion,id=182425,bonus_id=4799/4786/1511
+#off_hand=stonewrought_gargoyles_barrier,id=182399,bonus_id=4799/4786/1518
+#off_hand=stonewrought_gargoyles_barrier,id=182399,bonus_id=4799/4786/1511
+#off_hand=builwark_of_the_stone_legion,id=182425,bonus_id=4799/4786/1518
+#
+#
+### int 2h staff
+#
+#main_hand=torch_of_fiery_atonement,id=182418,bonus_id=4799/4786/1511
+#main_hand=sinbearers_absolution_staff,id=182392,bonus_id=4799/4786/1518
+#main_hand=torch_of_fiery_atonement,id=182418,bonus_id=4799/4786/1518
+#main_hand=sinbearers_absolution_staff,id=182392,bonus_id=4799/4786/1511
+#
+#
+### agi trinket
+#
+#trinket1=skulkers_wing,id=184016,bonus_id=4799/4786/1485
+#trinket1=macabre_sheet_music,id=184024,bonus_id=4799/4786/1485
+#trinket1=memory_of_past_sins,id=184025,bonus_id=4799/4786/1485
+#trinket1=dreadfire_vessel,id=184030,bonus_id=4799/4786/1485
+#trinket1=stone_legion_heraldry,id=184027,bonus_id=4799/4786/1485
+#trinket1=hateful_chain,id=184026,bonus_id=4799/4786/1485
+### agi 1h fist
+#
+#main_hand=claws_of_the_stone_generals,id=182416,bonus_id=4799/4786/1511
+#main_hand=talons_of_the_legion_generals,id=182390,bonus_id=4799/4786/1511
+#main_hand=claws_of_the_stone_generals,id=182416,bonus_id=4799/4786/1518
+#main_hand=talons_of_the_legion_generals,id=182390,bonus_id=4799/4786/1518
+#
+#
+### mail items
+#
+#head=helm_of_insatiable_appetite,id=183001,bonus_id=4799/4786/1485
+#shoulder=pauldrons_of_fatal_finality,id=183003,bonus_id=4799/4786/1485
+#chest=master_huntsmans_bandolier,id=182988,bonus_id=4799/4786/1485
+#chest=consumptive_chainmail_carapace,id=183000,bonus_id=4799/4786/1485
+#wrists=bangles_of_errant_pride,id=182977,bonus_id=4799/4786/1485
+#hands=castellans_chainlink_grips,id=183014,bonus_id=4799/4786/1485
+#hands=oathsworn_soldiers_gauntlets,id=182991,bonus_id=4799/4786/1485
+#waist=double_chained_utility_belt,id=182976,bonus_id=4799/4786/1485
+#waist=load_bearing_belt,id=183016,bonus_id=4799/4786/1485
+#legs=memento_laden_cuisses,id=182985,bonus_id=4799/4786/1485
+#legs=greaves_of_enigmatic_energies,id=183012,bonus_id=4799/4786/1485
+#feet=stoneclas_stompers,id=183006,bonus_id=4799/4786/1485

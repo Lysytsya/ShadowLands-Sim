@@ -36,3 +36,10 @@
 #main_hand=wingdancers_warglaive,id=182423,bonus_id=4799/4786/1511
 #main_hand=legion_generals_glaivewing,id=182397,bonus_id=4799/4786/1518
 #main_hand=wingdancers_warglaive,id=182423,bonus_id=4799/4786/1518
+
+### range
+#
+#main_hand=dredbat_repeating_crossbow,id=182424,bonus_id=4799/4786/1511
+#main_hand=dredfang_ironspitter,id=182398,bonus_id=4799/4786/1511
+#main_hand=dredbat_repeating_crossbow,id=182424,bonus_id=4799/4786/1518
+#main_hand=dredfang_ironspitter,id=182398,bonus_id=4799/4786/1518
