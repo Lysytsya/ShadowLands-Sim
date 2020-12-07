@@ -1,0 +1,38 @@
+#
+#
+### agi 2h staff 
+#
+#main_hand=nathrian_torchbearers_stave,id=182419,bonus_id=4799/4786/1511
+#main_hand=rod_of_the_stone_sentinels,id=182393,bonus_id=4799/4786/1518
+#main_hand=rod_of_the_stone_sentinels,id=182393,bonus_id=4799/4786/1511
+#main_hand=nathrian_torchbearers_stave,id=182419,bonus_id=4799/4786/1518
+#
+#
+### agi 1h fist
+#
+#main_hand=claws_of_the_stone_generals,id=182416,bonus_id=4799/4786/1511
+#main_hand=talons_of_the_legion_generals,id=182390,bonus_id=4799/4786/1511
+#main_hand=claws_of_the_stone_generals,id=182416,bonus_id=4799/4786/1518
+#main_hand=talons_of_the_legion_generals,id=182390,bonus_id=4799/4786/1518
+#
+#
+### agi 1h sword
+#
+#main_hand=dredwing_barbed_swordbreaker,id=182394,bonus_id=4799/4786/1511
+#main_hand=nathrian_duelists_fleshrender,id=182420,bonus_id=4799/4786/1511
+#main_hand=dredwing_barbed_swordbreaker,id=182394,bonus_id=4799/4786/1518
+#main_hand=nathrian_duelists_fleshrender,id=182420,bonus_id=4799/4786/1518
+#
+#
+### agi 1h dagger
+#
+#main_hand=nathrian_assassins_backbiter,id=182388,bonus_id=4799/4786/1511
+#main_hand=nathrian_assassins_backbiter,id=182388,bonus_id=4799/4786/1518
+#
+#
+### agi 1h glaive
+#
+#main_hand=legion_generals_glaivewing,id=182397,bonus_id=4799/4786/1511
+#main_hand=wingdancers_warglaive,id=182423,bonus_id=4799/4786/1511
+#main_hand=legion_generals_glaivewing,id=182397,bonus_id=4799/4786/1518
+#main_hand=wingdancers_warglaive,id=182423,bonus_id=4799/4786/1518
