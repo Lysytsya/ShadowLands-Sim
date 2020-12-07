@@ -1,0 +1,11 @@
+#
+### common items 
+#
+#back=mantle_of_manifest_sins,id=183033,bonus_id=4799/4786/1485
+#back=cowled_batwing_cloak,id=183034,bonus_id=4799/4786/1485
+#back=crest_of_the_legionnaire_general,id=183032,bonus_id=4799/4786/1485
+#neck=nobles_birthstone_pendant,id=183039,bonus_id=4799/4786/1485
+#neck=charm_of_eternal_winter,id=183040,bonus_id=4799/4786/1485
+#finger1=ritualists_treasured_ring,id=183037,bonus_id=4799/4786/1485
+#finger1=hyperlight_band,id=183038,bonus_id=4799/4786/1485
+#finger1=most_regal_signet_of_sire_denathrius,id=183036,bonus_id=4799/4786/1485

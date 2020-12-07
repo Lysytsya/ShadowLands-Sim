@@ -1,0 +1,7 @@
+#
+### 2h sword
+#
+#main_hand=nathrian_crusaders_bastard_sword,id=182389,bonus_id=4799/4786/1511
+#main_hand=stoneborn_goliaths_cleaver,id=182415,bonus_id=4799/4786/1511
+#main_hand=nathrian_crusaders_bastard_sword,id=182389,bonus_id=4799/4786/1518
+#main_hand=stoneborn_goliaths_cleaver,id=182415,bonus_id=4799/4786/1518

@@ -1,0 +1,10 @@
+#
+#
+### agi trinket
+#
+#trinket1=skulkers_wing,id=184016,bonus_id=4799/4786/1485
+#trinket1=macabre_sheet_music,id=184024,bonus_id=4799/4786/1485
+#trinket1=memory_of_past_sins,id=184025,bonus_id=4799/4786/1485
+#trinket1=dreadfire_vessel,id=184030,bonus_id=4799/4786/1485
+#trinket1=stone_legion_heraldry,id=184027,bonus_id=4799/4786/1485
+#trinket1=hateful_chain,id=184026,bonus_id=4799/4786/1485

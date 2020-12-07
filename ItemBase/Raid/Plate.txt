@@ -1,0 +1,15 @@
+#
+### plate items
+#
+#head=diadem_of_imperious_desire,id=182997,bonus_id=4799/4786/1485
+#shoulder=epaulettes_of_overwhelming_force,id=182994,bonus_id=4799/4786/1485
+#chest=breastplate_of_cautious_calculation,id=182987,bonus_id=4799/4786/1485
+#chest=rampaging_giants_chestplate,id=182999,bonus_id=4799/4786/1485
+#wrists=hellhound_cuffs,id=183018,bonus_id=4799/4786/1485
+#hands=colossal_plate_gauntlets,id=182984,bonus_id=4799/4786/1485
+#waist=binding_of_warped_desires,id=183015,bonus_id=4799/4786/1485
+#waist=stoic_guardsmans_belt,id=183025,bonus_id=4799/4786/1485
+#legs=endlessly_gluttonous_greaves,id=182992,bonus_id=4799/4786/1485
+#legs=ceremonial_parade_legguards,id=183002,bonus_id=4799/4786/1485
+#feet=stoneguard_attendants_boots,id=182983,bonus_id=4799/4786/1485
+#feet=errant_crusaders_greaves,id=183027,bonus_id=4799/4786/1485

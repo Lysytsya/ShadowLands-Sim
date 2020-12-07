@@ -1,0 +1,8 @@
+#
+### int trinket
+#
+#trinket1=soul_igniter,id=184019,bonus_id=4799/4786/1485
+#trinket1=glyph_of_assimilation,id=184021,bonus_id=4799/4786/1485
+#trinket1=macabre_sheet_music,id=184024,bonus_id=4799/4786/1485
+#trinket1=dreadfire_vessel,id=184030,bonus_id=4799/4786/1485
+#trinket1=cabalists_hymnal,id=184028,bonus_id=4799/4786/1485

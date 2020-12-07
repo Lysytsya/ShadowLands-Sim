@@ -1,0 +1,15 @@
+#
+### leather items
+#
+#head=sadists_sinister_mask,id=182980,bonus_id=4799/4786/1485
+#shoulder=wicked_flankers_gorget,id=183029,bonus_id=4799/4786/1485
+#chest=corset_of_the_deft_duelist,id=182989,bonus_id=4799/4786/1485
+#chest=miasma_lacquered_jerkin,id=183009,bonus_id=4799/4786/1485
+#wrists=precisely_calibrated_chronometer,id=183019,bonus_id=4799/4786/1485
+#hands=bleakwing_assassins_grips,id=183007,bonus_id=4799/4786/1485
+#hands=gloves_of_phantom_shadows,id=183026,bonus_id=4799/4786/1485
+#waist=spell_woven_tourniquet,id=182995,bonus_id=4799/4786/1485
+#waist=heedless_pugilists_harness,id=183005,bonus_id=4799/4786/1485
+#legs=chiropteran_leggings,id=182993,bonus_id=4799/4786/1485
+#legs=volatile_shadestitch_legguards,id=183024,bonus_id=4799/4786/1485
+#feet=enchanted_toe_tappers,id=183030,bonus_id=4799/4786/1485

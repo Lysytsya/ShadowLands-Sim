@@ -1,0 +1,15 @@
+#
+### mail items
+#
+#head=helm_of_insatiable_appetite,id=183001,bonus_id=4799/4786/1485
+#shoulder=pauldrons_of_fatal_finality,id=183003,bonus_id=4799/4786/1485
+#chest=master_huntsmans_bandolier,id=182988,bonus_id=4799/4786/1485
+#chest=consumptive_chainmail_carapace,id=183000,bonus_id=4799/4786/1485
+#wrists=bangles_of_errant_pride,id=182977,bonus_id=4799/4786/1485
+#hands=castellans_chainlink_grips,id=183014,bonus_id=4799/4786/1485
+#hands=oathsworn_soldiers_gauntlets,id=182991,bonus_id=4799/4786/1485
+#waist=double_chained_utility_belt,id=182976,bonus_id=4799/4786/1485
+#waist=load_bearing_belt,id=183016,bonus_id=4799/4786/1485
+#legs=memento_laden_cuisses,id=182985,bonus_id=4799/4786/1485
+#legs=greaves_of_enigmatic_energies,id=183012,bonus_id=4799/4786/1485
+#feet=stoneclas_stompers,id=183006,bonus_id=4799/4786/1485

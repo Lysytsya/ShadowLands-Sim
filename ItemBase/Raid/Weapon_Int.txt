@@ -1,0 +1,53 @@
+#
+#
+### int Mace 1h
+#
+#main_hand=mace_of_enveloping_sins,id=182417,bonus_id=4799/4786/1511
+#main_hand=sinstealers_sentencing_gavel,id=182391,bonus_id=4799/4786/1511
+#main_hand=mace_of_enveloping_sins,id=182417,bonus_id=4799/4786/1518
+#main_hand=sinstealers_sentencing_gavel,id=182391,bonus_id=4799/4786/1518
+#
+#
+### int sword 1h
+#
+#main_hand=dread_inquisitors_spine,id=182422,bonus_id=4799/4786/1511
+#main_hand=hungering_ritualists_animablade,id=182396,bonus_id=4799/4786/1511
+#main_hand=dread_inquisitors_spine,id=182422,bonus_id=4799/4786/1518
+#main_hand=hungering_ritualists_animablade,id=182396,bonus_id=4799/4786/1518
+#
+#
+### int offhand
+#
+#off_hand=master_stonewrights_chisel,id=182400,bonus_id=4799/4786/1511
+#off_hand=stonewrights_infused_stonecarver,id=182426,bonus_id=4799/4786/1511
+#off_hand=master_stonewrights_chisel,id=182400,bonus_id=4799/4786/1518
+#off_hand=stonewrights_infused_stonecarver,id=182426,bonus_id=4799/4786/1518
+#
+#
+### int offhand shield
+#
+#off_hand=builwark_of_the_stone_legion,id=182425,bonus_id=4799/4786/1511
+#off_hand=stonewrought_gargoyles_barrier,id=182399,bonus_id=4799/4786/1518
+#off_hand=stonewrought_gargoyles_barrier,id=182399,bonus_id=4799/4786/1511
+#off_hand=builwark_of_the_stone_legion,id=182425,bonus_id=4799/4786/1518
+#
+#
+### int 2h staff
+#
+#main_hand=torch_of_fiery_atonement,id=182418,bonus_id=4799/4786/1511
+#main_hand=sinbearers_absolution_staff,id=182392,bonus_id=4799/4786/1518
+#main_hand=torch_of_fiery_atonement,id=182418,bonus_id=4799/4786/1518
+#main_hand=sinbearers_absolution_staff,id=182392,bonus_id=4799/4786/1511
+
+
+
+
+
+
+
+
+
+
+
+
+
