@@ -1,0 +1,9 @@
+neck=periapt_of_pristine_preservation,id=186291,bonus_id=4822/4786
+neck=weathered_talisman_of_the_shadowmoon,id=186378,bonus_id=4822/4786
+neck=interplanar_keystone,id=186379,bonus_id=4822/4786
+back=cloak_of_scarred_honor,id=186289,bonus_id=4822/4786
+back=self_replicating_tissue,id=186374,bonus_id=4822/4786
+finger1=sworn_oath_of_the_nine,id=186290,bonus_id=4822/4786
+finger1=miniature_breaking_wheel,id=186375,bonus_id=4822/4786
+finger1=oscillating_ouroboros,id=186376,bonus_id=4822/4786
+finger1=tarnished_insignia_of_quelthalas,id=186377,bonus_id=4822/4786

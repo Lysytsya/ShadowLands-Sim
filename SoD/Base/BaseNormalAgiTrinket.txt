@@ -1,0 +1,5 @@
+trinket1=titanic_ocular_gland,id=186423,bonus_id=4822/4786
+trinket1=decanter_of_endless_howling,id=186429,bonus_id=4822/4786
+trinket1=tormented_rack_fragment,id=186430,bonus_id=4822/4786
+trinket1=relic_of_the_frozen_wastes,id=186437,bonus_id=4822/4786
+trinket1=salvaged_fusion_amplifier,id=186432,bonus_id=4822/4786

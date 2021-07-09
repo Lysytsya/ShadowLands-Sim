@@ -1,0 +1,102 @@
+### Gear from Bags
+#
+### rings
+#
+#finger1=stitchfleshs_misplaced_signet,id=178736,bonus_id=3535/4786/1566
+#finger1=ritual_commanders_ring,id=178781,bonus_id=3535/4786/1566
+#finger1=arachnid_cipher_ring,id=178933,bonus_id=3535/4786/1566
+#finger1=signet_of_the_false_accuser,id=178824,bonus_id=3535/4786/1566
+#finger1=ritual_bone_band,id=178870,bonus_id=3535/4786/1566
+#finger1=bloodoath_signet,id=178871,bonus_id=3535/4786/1566
+#finger1=ring_of_perpetual_conflict,id=178872,bonus_id=3535/4786/1566
+#finger1=entwined_gorger_tendril,id=178848,bonus_id=3535/4786/1566
+#finger1=death_gods_signet,id=179355,bonus_id=3535/4786/1566
+#finger1=fleshfused_circle,id=178869,bonus_id=3535/4786/1566
+#
+#
+### back
+#
+#back=blighted_margraves_cloak,id=178755,bonus_id=3535/4786/1566
+#back=drape_of_twisted_loyalties,id=180123,bonus_id=3535/4786/1566
+#back=dealer_xyexas_cape,id=179349,bonus_id=3535/4786/1566
+#back=cloak_of_enveloping_manifestations,id=178851,bonus_id=3535/4786/1566
+#
+#
+### neck
+#
+#neck=trailspinner_pendant,id=178707,bonus_id=3535/4786/1566
+#neck=azure_venom_choker,id=180115,bonus_id=3535/4786/1566
+#neck=sin_stained_pendant,id=178827,bonus_id=3535/4786/1566
+#
+### agi trinket
+#
+#trinket1=mistcaller_ocarina,id=178715,bonus_id=3535/4786/1566
+#trinket1=bottled_flayedwing_toxin,id=178742,bonus_id=3535/4786/1566
+#trinket1=phial_of_putrefaction,id=178771,bonus_id=3535/4786/1566
+#trinket1=inscrutable_quantum_device,id=179350,bonus_id=3535/4786/1566
+#trinket1=decanter_of_anima_charged_winds,id=178861,bonus_id=3535/4786/1566
+#trinket1=grim_codex,id=178811,bonus_id=3535/4786/1566
+#trinket1=shadowgrasp_totem,id=179356,bonus_id=3535/4786/1566
+#trinket1=overcharged_anima_battery,id=180116,bonus_id=3535/4786/1566
+#trinket1=darkmoon_deck__voracity,id=173087
+#
+### agi 1h sword
+#
+#main_hand=poxstorm__longsword_of_pestilence,id=178754,bonus_id=3535/4786/1566
+#main_hand=bloodspiller,id=179328,bonus_id=3535/4786/1566
+#
+#
+### agi 1h mace
+#
+#main_hand=stoneguardians_morningstar,id=178834,bonus_id=3535/4786/1566
+#main_hand=gorebound_predators_gavel,id=178864,bonus_id=3535/4786/1566
+#
+#
+### agi 1h axe
+#
+#main_hand=stone_generals_edge,id=178857,bonus_id=3535/4786/1566
+#main_hand=penitent_edge,id=180095,bonus_id=3535/4786/1566
+#
+#
+### agi 1h dagger
+#
+#main_hand=tanglewood_thorn,id=178710,bonus_id=3535/4786/1566
+#main_hand=stitchfleshs_scalpel,id=178743,bonus_id=3535/4786/1566
+#main_hand=voracious_gorger_spine,id=178853,bonus_id=3535/4786/1566
+#main_hand=dominas_oozing_shiv,id=178928,bonus_id=3535/4786/1566
+#
+### leather items
+#
+#head=hood_of_the_hidden_path,id=178691,bonus_id=3535/4786/1566
+#head=digested_interrogators_gaze,id=178760,bonus_id=3535/4786/1566
+#head=hood_of_refracted_shadows,id=178817,bonus_id=3535/4786/1566
+#head=crown_of_autumnal_flora,id=182305,bonus_id=7187/4786/1655
+#head=vicious_surge_faceguard,id=180106,bonus_id=3535/4786/1566
+#shoulder=malodorous_gristle_sown_spaulders,id=178763,bonus_id=3535/4786/1566
+#shoulder=undying_chill_shoulderpads,id=178779,bonus_id=3535/4786/1566
+#shoulder=wicked_bladewing_pauldrons,id=178858,bonus_id=3535/4786/1566
+#shoulder=far_travelers_shoulderpads,id=179344,bonus_id=3535/4786/1566
+#chest=rainshadow_hauberk,id=178698,bonus_id=3535/4786/1566
+#chest=freshly_embalmed_jerkin,id=178744,bonus_id=3535/4786/1566
+#chest=vest_of_concealed_secrets,id=178795,bonus_id=3535/4786/1566
+#chest=anima_splattered_hide,id=178835,bonus_id=3535/4786/1566
+#wrists=bands_of_the_undergrowth,id=178702,bonus_id=3535/4786/1566
+#wrists=risen_monstrosity_cuffs,id=178741,bonus_id=3535/4786/1566
+#wrists=radiant_light_binders,id=178847,bonus_id=3535/4786/1566
+#wrists=fastened_venombarb_binds,id=178934,bonus_id=3535/4786/1566
+#hands=gloves_of_obscure_rituals,id=178757,bonus_id=3535/4786/1566
+#hands=gloves_of_haunting_fixation,id=178832,bonus_id=3535/4786/1566
+#hands=rocket_chicken_handlers,id=179336,bonus_id=3535/4786/1566
+#hands=winged_hunters_gloves,id=180103,bonus_id=3535/4786/1566
+#waist=sapgorger_belt,id=178699,bonus_id=3535/4786/1566
+#waist=girdle_of_shattered_dreams,id=178805,bonus_id=3535/4786/1566
+#waist=waistcord_of_dark_devotion,id=178823,bonus_id=3535/4786/1566
+#waist=shadowhirl_waistwrap,id=180111,bonus_id=3535/4786/1566
+#legs=fearless_challengers_leggings,id=178801,bonus_id=3535/4786/1566
+#legs=skyterrors_stonehide_leggings,id=178819,bonus_id=3535/4786/1566
+#legs=soulfeather_breeches,id=179324,bonus_id=3535/4786/1566
+#legs=abyssal_disharmony_breeches,id=180108,bonus_id=3535/4786/1566
+#feet=viscera_stitched_footpads,id=178731,bonus_id=3535/4786/1566
+#feet=vanquished_usurpers_footpads,id=178797,bonus_id=3535/4786/1566
+#feet=primeval_souls_ankleguards,id=179352,bonus_id=3535/4786/1566
+#feet=sinsoaked_waders,id=178837,bonus_id=3535/4786/1566
